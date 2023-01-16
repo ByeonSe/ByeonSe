@@ -1,8 +1,8 @@
 - 👋 Hi, I’m ✨ @ByeonSe ✨ 
-- 💪 I'm fluent in JavaScript [ES6] | React | React Native | Redux | Node.js | Express | Postgres | Sequelize | HTML | CSS | Socket.IO | Git
+- 💪 My primary languages are JavaScript [ES6] | Node.js | Ruby on Rails | TypeScript
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Python, and Typescript
-- 💞️ I’m looking to collaborate on any cool JavaScript, Python, and Typescript projects
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any cool JavaScript, Ruby on Rails, and TypeScript projects
 - 📫 How to reach me: seonaebyeon1@gmail.com
 
 <!---
